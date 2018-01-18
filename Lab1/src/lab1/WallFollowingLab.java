@@ -16,7 +16,7 @@ public class WallFollowingLab {
   private static final int motorLow = 100; // Speed of slower rotating wheel (deg/sec)
   private static final int motorHigh = 200; // Speed of the faster rotating wheel (deg/seec)
 
-
+//hellooooooo
   private static final Port usPort = LocalEV3.get().getPort("S1");
   public static final EV3LargeRegulatedMotor leftMotor =
       new EV3LargeRegulatedMotor(LocalEV3.get().getPort("A"));
