@@ -20,6 +20,7 @@ public class BangBangController implements UltrasonicController {
     WallFollowingLab.rightMotor.setSpeed(motorHigh);
     WallFollowingLab.leftMotor.forward();
     WallFollowingLab.rightMotor.forward();
+    //test
   }
 
   @Override
